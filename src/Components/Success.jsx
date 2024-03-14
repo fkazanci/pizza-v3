@@ -12,7 +12,7 @@ export default function Success({ orderData }) {
 
    
     if (!orderData) {
-        return <p>Sipariş verileri eksik veya hatalı.</p>;
+        return <p>Opppppps. Birşeyler ters gitt!!!!!!</p>;
     } else {
         console.log("SUCCESS DATA:", orderData);
     }
