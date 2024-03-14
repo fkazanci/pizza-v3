@@ -203,7 +203,7 @@
   margin-bottom: 50px;
 }
 
-/* BUTONLAR*/
+
 button {
   background-color: #FDC913;
   border-radius: 4px;
@@ -228,7 +228,7 @@ button:hover {
   font-weight: 400;
 }
 
-/* BAŞLIKLAR*/
+
 .main-title {
   font-family: Roboto Condensed;
   font-size: 86px;
@@ -243,7 +243,7 @@ button:hover {
   font-size: 32px;
 }
 
-/* SUCCESS PAGE */
+
 .success-page{
   background-color: #CE2829;
   color: white;
@@ -313,8 +313,7 @@ button:hover {
   margin-bottom: 40px;
 }
 
-/*--------------------------------------- */
-/* MAIN PAGE */
+
 .main-nav {
   width: 100%;
   height: 100px;
@@ -346,9 +345,6 @@ button:hover {
   height: 40px; 
   margin-right: 5px;
 }
-
-/*--------------------------------------- */
-/* MAIN PAGE CARDS - GRID İLE*/
 
 .main-page{
   background-color: #FAF7F2;
@@ -413,8 +409,7 @@ button:hover {
   font-weight: 600;
 }
 
-/*--------------------------------------- */
-/* MAIN PAGE VİTRİN - GRID İLE*/
+
 .vitrin{
   display: grid;
   justify-items: center;
@@ -475,8 +470,7 @@ button:hover {
   justify-content: space-around;
 }
 
-/*--------------------------------------- */
-/* MAIN FOOTER*/
+
 
 footer {
   background-color: #1A1A1A;

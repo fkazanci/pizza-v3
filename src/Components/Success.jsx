@@ -12,7 +12,7 @@ export default function Success({ orderData }) {
 
    
     if (!orderData) {
-        return <p>Opppppps. Birşeyler ters gitt!!!!!!</p>;
+        return <p>Opppppps. Birşeyler ters gitti!!!!!!</p>;
     } else {
         console.log("SUCCESS DATA:", orderData);
     }
